@@ -50,7 +50,7 @@
       "transform-runtime",
       "transform-decorators",
       "syntax-jsx",
-      ["transform-jsx", { "module": "jsx-to-virtual-dom" }]
+      ["transform-jsx", { "module": "jsx-virtual-dom" }]
     ],
     "env": {
       "test": {
